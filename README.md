@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Built%20With-Microsoft%20Excel-green?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Built with Excel">
   </a>
   
-  <a href="#dashboard-preview">
+  <a href="https://github.com/iPrince-Tripathi/Superstore-Sales-Excel-Dashboard/blob/main/DASHBOARD.png">
     <img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge" alt="Status Completed">
   </a>
   
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="MIT License">
   </a>
 </p>
+
 
 <p align="center">
   A modern, professional Excel dashboard for analyzing Superstore sales data 📦 using PivotTables, slicers, and advanced visualization.  
