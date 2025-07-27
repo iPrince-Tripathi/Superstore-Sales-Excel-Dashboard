@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge" alt="Status Completed">
   </a>
   
-  <a href="https://choosealicense.com/licenses/mit/">
+  <a href="https://choosealicense.com/licenses/mit/"> 
     <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="MIT License">
   </a>
 </p>
