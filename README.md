@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Status-Completed-blue?style=for-the-badge" alt="Status Completed">
   </a>
   
-  <a href="https://choosealicense.com/licenses/mit/"> 
+  <a href="https://github.com/iPrince-Tripathi/Superstore-Sales-Excel-Dashboard/blob/2453ce6a2360bf824e0934c01b8ddaed71467532/LICENSE"> 
     <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="MIT License">
   </a>
 </p>
