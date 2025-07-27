@@ -96,7 +96,7 @@ Licensed under the [MIT License](LICENSE).
 ## ✉️ Contact
 
 > Created by [Prince Tripathi] — aspiring Data Analyst  
-> 💼 Connect on [LinkedIn](#https://www.linkedin.com/in/iprince-tripathi/) | 
+> 💼 Connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iprince-tripathi/)  | 
 
 
 
