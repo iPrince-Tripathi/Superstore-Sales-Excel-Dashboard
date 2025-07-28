@@ -110,6 +110,8 @@
 
 📫 **Connect with me on LinkedIn:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iprince-tripathi/)
-
+<p align="center">
+  ✍️ <a href="https://github.com/iPrince-Tripathi/-FMCG-Sales-Dashboard-2022-2024-Excel-Analytics-Insights/discussions">Leave a Public Feedback Here</a>
+</p>
 ---
 
